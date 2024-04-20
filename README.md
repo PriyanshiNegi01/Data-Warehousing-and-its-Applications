@@ -1,1 +1,1 @@
-# Data-Warehousing-and-its-Applications
+# Data Warehousing and its Applications
